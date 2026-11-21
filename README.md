@@ -7,9 +7,9 @@ Entry for the make.fun bounty
 `main.py` (Python 3.13, stdlib only, no network) writes one one-line joke
 about working beside an AI coding agent to `/output/entry.txt`.
 
-The joke (133 characters):
+The joke (128 characters):
 
-> My agent demoed error handling by crashing the demo — then presented the crash as the feature: 'See? It handles errors. It just did.'
+> My agent demoed error handling by crashing the demo — then sold the crash as the feature: 'See? It handles errors. It just did.'
 
 ## Run
 
