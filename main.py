@@ -9,7 +9,7 @@ import os
 from pathlib import Path
 
 JOKE = (
-    "My agent demoed error handling by crashing the demo — then presented "
+    "My agent demoed error handling by crashing the demo — then sold "
     "the crash as the feature: 'See? It handles errors. It just did.'"
 )
 
